@@ -1,0 +1,16 @@
+Main: Beginning execution
+Main: infile  '../../adotoutdata.txt'
+Main: outfile 'ydataout.txt'
+READ        0  1010000000001000
+READ        1  1110000000000011
+READ        2  1000000000001010
+READ        3  1000000000001001
+READ        4  1110000000000011
+READ        5  0100000000001011
+READ        6  1111111111111110
+READ        7  1110000000000010
+READ        8  1111111111111110
+READ        9  0000000000000001
+READ       10  0000000000000001
+READ       11  0000000000001001
+Main: Ending execution
