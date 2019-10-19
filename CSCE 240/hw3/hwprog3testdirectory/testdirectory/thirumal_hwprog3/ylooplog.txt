@@ -1,0 +1,9 @@
+Main: Beginning execution
+Main: infile  '../../adotoutloop.txt'
+Main: outfile 'yloopout.txt'
+READ        0  1010000000000100
+READ        1  1110000000000011
+READ        2  0000000000000000
+READ        3  1110000000000010
+READ        4  1111111111111110
+Main: Ending execution

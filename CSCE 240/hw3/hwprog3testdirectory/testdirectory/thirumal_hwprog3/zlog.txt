@@ -1,0 +1,4 @@
+Main: Beginning execution
+Main: infile  '../../adotoutsquares.txt'
+Main: outfile 'zout.txt'
+Main: Ending execution

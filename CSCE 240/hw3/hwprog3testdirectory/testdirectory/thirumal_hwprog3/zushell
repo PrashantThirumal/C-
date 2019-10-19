@@ -1,0 +1,10 @@
+Aprog ../../adotout4.txt         xout4.txt         xlog4.txt
+Aprog ../../adotout5.txt         xout5.txt         xlog5.txt
+Aprog ../../adotout6.txt         xout6.txt         xlog6.txt
+Aprog ../../adotoutdata.txt      ydataout.txt      ydatalog.txt
+Aprog ../../adotoutfib.txt       yfibout.txt       yfiblog.txt
+Aprog ../../adotoutloop.txt      yloopout.txt      ylooplog.txt
+Aprog ../../adotoutreadwrite.txt yreadwriteout.txt yreadwritelog.txt
+Aprog ../../adotoutsquares.txt   ysquaresout.txt   ysquareslog.txt
+
+#sh zushellcompare
