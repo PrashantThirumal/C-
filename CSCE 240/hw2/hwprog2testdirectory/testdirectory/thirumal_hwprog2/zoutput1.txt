@@ -1,0 +1,20 @@
+0 21.904 , -87.515
+1 62.589 , 86.708
+2 13.163 , 9.524
+3 55.323 , -12.683
+4 5.341 , 84.275
+5 23.689 , 60.753
+6 -78.763 , 6.512
+7 82.29 , -5.784
+8 -88.62 , 10.373
+9 99.611 , 27.134
+NEW MIN AT 0 1 Value: 178.91
+NEW MIN AT 0 2 Value: 97.4319
+NEW MIN AT 0 3 Value: 81.9552
+NEW MIN AT 1 4 Value: 57.2997
+NEW MIN AT 1 5 Value: 46.764
+NEW MIN AT 3 7 Value: 27.8355
+NEW MIN AT 6 8 Value: 10.5862
+Pairs that resulted in minimum distance
+6  -78.763 , 6.512
+8  -88.62 , 10.373
