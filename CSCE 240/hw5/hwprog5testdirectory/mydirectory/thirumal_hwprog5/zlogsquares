@@ -1,0 +1,143 @@
+MAIN: Beginning execution
+MAIN: adotoutfile   'adotoutsquares'
+MAIN: datafile '../../zzin.txt'
+MAIN: outfile  'zoutsquares'
+2.  Input   1010000000010010
+2.  Input   1010000000010101
+2.  Input   1110000000000011
+2.  Input   1010000000010101
+2.  Input   1000000000010100
+2.  Input   1000000000010100
+2.  Input   1000000000010011
+2.  Input   1110000000000011
+2.  Input   0100000000010101
+2.  Input   1010000000010100
+2.  Input   1000000000010011
+2.  Input   0100000000010100
+2.  Input   1010000000010010
+2.  Input   1000000000010011
+2.  Input   0100000000010010
+2.  Input   1010000000010010
+2.  Input   0000000000000011
+2.  Input   1110000000000010
+2.  Input   1111111111111011
+2.  Input   0000000000000001
+2.  Input   0000000000000011
+2.  Input   0000000000001001
+
+3.  Convert 1010000000010010
+3.  Converted in loop ffffa012
+3.  Convert 1010000000010101
+3.  Converted in loop ffffa015
+3.  Convert 1110000000000011
+3.  Converted in loop ffffe003
+3.  Convert 1010000000010101
+3.  Converted in loop ffffa015
+3.  Convert 1000000000010100
+3.  Converted in loop ffff8014
+3.  Convert 1000000000010100
+3.  Converted in loop ffff8014
+3.  Convert 1000000000010011
+3.  Converted in loop ffff8013
+3.  Convert 1110000000000011
+3.  Converted in loop ffffe003
+3.  Convert 0100000000010101
+3.  Converted in loop 00004015
+3.  Convert 1010000000010100
+3.  Converted in loop ffffa014
+3.  Convert 1000000000010011
+3.  Converted in loop ffff8013
+3.  Convert 0100000000010100
+3.  Converted in loop 00004014
+3.  Convert 1010000000010010
+3.  Converted in loop ffffa012
+3.  Convert 1000000000010011
+3.  Converted in loop ffff8013
+3.  Convert 0100000000010010
+3.  Converted in loop 00004012
+3.  Convert 1010000000010010
+3.  Converted in loop ffffa012
+3.  Convert 0000000000000011
+3.  Converted in loop 00000003
+3.  Convert 1110000000000010
+3.  Converted in loop ffffe002
+3.  Convert 1111111111111011
+3.  Converted in loop fffffffb
+3.  Convert 0000000000000001
+3.  Converted in loop 00000001
+3.  Convert 0000000000000011
+3.  Converted in loop 00000003
+3.  Convert 0000000000001001
+3.  Converted in loop 00000009
+
+4.  Converted after loop ffffa012
+4.  Converted after loop ffffa015
+4.  Converted after loop ffffe003
+4.  Converted after loop ffffa015
+4.  Converted after loop ffff8014
+4.  Converted after loop ffff8014
+4.  Converted after loop ffff8013
+4.  Converted after loop ffffe003
+4.  Converted after loop 00004015
+4.  Converted after loop ffffa014
+4.  Converted after loop ffff8013
+4.  Converted after loop 00004014
+4.  Converted after loop ffffa012
+4.  Converted after loop ffff8013
+4.  Converted after loop 00004012
+4.  Converted after loop ffffa012
+4.  Converted after loop 00000003
+4.  Converted after loop ffffe002
+4.  Converted after loop fffffffb
+4.  Converted after loop 00000001
+4.  Converted after loop 00000003
+4.  Converted after loop 00000009
+
+SUCCESS in opening input 'instream'
+BINARY LENGTH, WORDCOUNT 44 22
+6.  DATA ITEM  0:   -24558 ffffa012 1010000000010010
+6.  DATA ITEM  1:   -24555 ffffa015 1010000000010101
+6.  DATA ITEM  2:    -8189 ffffe003 1110000000000011
+6.  DATA ITEM  3:   -24555 ffffa015 1010000000010101
+6.  DATA ITEM  4:   -32748 ffff8014 1000000000010100
+6.  DATA ITEM  5:   -32748 ffff8014 1000000000010100
+6.  DATA ITEM  6:   -32749 ffff8013 1000000000010011
+6.  DATA ITEM  7:    -8189 ffffe003 1110000000000011
+6.  DATA ITEM  8:    16405 00004015 0100000000010101
+6.  DATA ITEM  9:   -24556 ffffa014 1010000000010100
+6.  DATA ITEM 10:   -32749 ffff8013 1000000000010011
+6.  DATA ITEM 11:    16404 00004014 0100000000010100
+6.  DATA ITEM 12:   -24558 ffffa012 1010000000010010
+6.  DATA ITEM 13:   -32749 ffff8013 1000000000010011
+6.  DATA ITEM 14:    16402 00004012 0100000000010010
+6.  DATA ITEM 15:   -24558 ffffa012 1010000000010010
+6.  DATA ITEM 16:        3 00000003 0000000000000011
+6.  DATA ITEM 17:    -8190 ffffe002 1110000000000010
+6.  DATA ITEM 18:       -5 fffffffb 1111111111111011
+6.  DATA ITEM 19:        1 00000001 0000000000000001
+6.  DATA ITEM 20:        3 00000003 0000000000000011
+6.  DATA ITEM 21:        9 00000009 0000000000001001
+7.  GOOD  Original and rewritten 1010000000010010 1010000000010010
+7.  GOOD  Original and rewritten 1010000000010101 1010000000010101
+7.  GOOD  Original and rewritten 1110000000000011 1110000000000011
+7.  GOOD  Original and rewritten 1010000000010101 1010000000010101
+7.  GOOD  Original and rewritten 1000000000010100 1000000000010100
+7.  GOOD  Original and rewritten 1000000000010100 1000000000010100
+7.  GOOD  Original and rewritten 1000000000010011 1000000000010011
+7.  GOOD  Original and rewritten 1110000000000011 1110000000000011
+7.  GOOD  Original and rewritten 0100000000010101 0100000000010101
+7.  GOOD  Original and rewritten 1010000000010100 1010000000010100
+7.  GOOD  Original and rewritten 1000000000010011 1000000000010011
+7.  GOOD  Original and rewritten 0100000000010100 0100000000010100
+7.  GOOD  Original and rewritten 1010000000010010 1010000000010010
+7.  GOOD  Original and rewritten 1000000000010011 1000000000010011
+7.  GOOD  Original and rewritten 0100000000010010 0100000000010010
+7.  GOOD  Original and rewritten 1010000000010010 1010000000010010
+7.  GOOD  Original and rewritten 0000000000000011 0000000000000011
+7.  GOOD  Original and rewritten 1110000000000010 1110000000000010
+7.  GOOD  Original and rewritten 1111111111111011 1111111111111011
+7.  GOOD  Original and rewritten 0000000000000001 0000000000000001
+7.  GOOD  Original and rewritten 0000000000000011 0000000000000011
+7.  GOOD  Original and rewritten 0000000000001001 0000000000001001
+NO ERRORS OCCURRED
+MAIN: Ending execution

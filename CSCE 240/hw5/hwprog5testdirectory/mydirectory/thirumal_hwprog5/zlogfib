@@ -1,0 +1,347 @@
+MAIN: Beginning execution
+MAIN: adotoutfile   'adotoutfib'
+MAIN: datafile '../../zzin.txt'
+MAIN: outfile  'zoutfib'
+2.  Input   1010000000010111
+2.  Input   1000000000011011
+2.  Input   0100000000011011
+2.  Input   1010000000011001
+2.  Input   0100000000011010
+2.  Input   1010000000011001
+2.  Input   1000000000011000
+2.  Input   1110000000000011
+2.  Input   0101000000011011
+2.  Input   1011000000011011
+2.  Input   0100000000011001
+2.  Input   1010000000011010
+2.  Input   0100000000011000
+2.  Input   1010000000010111
+2.  Input   1000000000010110
+2.  Input   0100000000010111
+2.  Input   1010000000011011
+2.  Input   1000000000010110
+2.  Input   0100000000011011
+2.  Input   1010000000010111
+2.  Input   0000000000000011
+2.  Input   1110000000000010
+2.  Input   0000000000000001
+2.  Input   1111111111111011
+2.  Input   0000000000001000
+2.  Input   0000000000001101
+2.  Input   1111000000000000
+2.  Input   0000000000101000
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1111000000000000
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+2.  Input   1100110011001100
+
+3.  Convert 1010000000010111
+3.  Converted in loop ffffa017
+3.  Convert 1000000000011011
+3.  Converted in loop ffff801b
+3.  Convert 0100000000011011
+3.  Converted in loop 0000401b
+3.  Convert 1010000000011001
+3.  Converted in loop ffffa019
+3.  Convert 0100000000011010
+3.  Converted in loop 0000401a
+3.  Convert 1010000000011001
+3.  Converted in loop ffffa019
+3.  Convert 1000000000011000
+3.  Converted in loop ffff8018
+3.  Convert 1110000000000011
+3.  Converted in loop ffffe003
+3.  Convert 0101000000011011
+3.  Converted in loop 0000501b
+3.  Convert 1011000000011011
+3.  Converted in loop ffffb01b
+3.  Convert 0100000000011001
+3.  Converted in loop 00004019
+3.  Convert 1010000000011010
+3.  Converted in loop ffffa01a
+3.  Convert 0100000000011000
+3.  Converted in loop 00004018
+3.  Convert 1010000000010111
+3.  Converted in loop ffffa017
+3.  Convert 1000000000010110
+3.  Converted in loop ffff8016
+3.  Convert 0100000000010111
+3.  Converted in loop 00004017
+3.  Convert 1010000000011011
+3.  Converted in loop ffffa01b
+3.  Convert 1000000000010110
+3.  Converted in loop ffff8016
+3.  Convert 0100000000011011
+3.  Converted in loop 0000401b
+3.  Convert 1010000000010111
+3.  Converted in loop ffffa017
+3.  Convert 0000000000000011
+3.  Converted in loop 00000003
+3.  Convert 1110000000000010
+3.  Converted in loop ffffe002
+3.  Convert 0000000000000001
+3.  Converted in loop 00000001
+3.  Convert 1111111111111011
+3.  Converted in loop fffffffb
+3.  Convert 0000000000001000
+3.  Converted in loop 00000008
+3.  Convert 0000000000001101
+3.  Converted in loop 0000000d
+3.  Convert 1111000000000000
+3.  Converted in loop fffff000
+3.  Convert 0000000000101000
+3.  Converted in loop 00000028
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1111000000000000
+3.  Converted in loop fffff000
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+3.  Convert 1100110011001100
+3.  Converted in loop ffffcccc
+
+4.  Converted after loop ffffa017
+4.  Converted after loop ffff801b
+4.  Converted after loop 0000401b
+4.  Converted after loop ffffa019
+4.  Converted after loop 0000401a
+4.  Converted after loop ffffa019
+4.  Converted after loop ffff8018
+4.  Converted after loop ffffe003
+4.  Converted after loop 0000501b
+4.  Converted after loop ffffb01b
+4.  Converted after loop 00004019
+4.  Converted after loop ffffa01a
+4.  Converted after loop 00004018
+4.  Converted after loop ffffa017
+4.  Converted after loop ffff8016
+4.  Converted after loop 00004017
+4.  Converted after loop ffffa01b
+4.  Converted after loop ffff8016
+4.  Converted after loop 0000401b
+4.  Converted after loop ffffa017
+4.  Converted after loop 00000003
+4.  Converted after loop ffffe002
+4.  Converted after loop 00000001
+4.  Converted after loop fffffffb
+4.  Converted after loop 00000008
+4.  Converted after loop 0000000d
+4.  Converted after loop fffff000
+4.  Converted after loop 00000028
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop fffff000
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+4.  Converted after loop ffffcccc
+
+SUCCESS in opening input 'instream'
+BINARY LENGTH, WORDCOUNT 112 56
+6.  DATA ITEM  0:   -24553 ffffa017 1010000000010111
+6.  DATA ITEM  1:   -32741 ffff801b 1000000000011011
+6.  DATA ITEM  2:    16411 0000401b 0100000000011011
+6.  DATA ITEM  3:   -24551 ffffa019 1010000000011001
+6.  DATA ITEM  4:    16410 0000401a 0100000000011010
+6.  DATA ITEM  5:   -24551 ffffa019 1010000000011001
+6.  DATA ITEM  6:   -32744 ffff8018 1000000000011000
+6.  DATA ITEM  7:    -8189 ffffe003 1110000000000011
+6.  DATA ITEM  8:    20507 0000501b 0101000000011011
+6.  DATA ITEM  9:   -20453 ffffb01b 1011000000011011
+6.  DATA ITEM 10:    16409 00004019 0100000000011001
+6.  DATA ITEM 11:   -24550 ffffa01a 1010000000011010
+6.  DATA ITEM 12:    16408 00004018 0100000000011000
+6.  DATA ITEM 13:   -24553 ffffa017 1010000000010111
+6.  DATA ITEM 14:   -32746 ffff8016 1000000000010110
+6.  DATA ITEM 15:    16407 00004017 0100000000010111
+6.  DATA ITEM 16:   -24549 ffffa01b 1010000000011011
+6.  DATA ITEM 17:   -32746 ffff8016 1000000000010110
+6.  DATA ITEM 18:    16411 0000401b 0100000000011011
+6.  DATA ITEM 19:   -24553 ffffa017 1010000000010111
+6.  DATA ITEM 20:        3 00000003 0000000000000011
+6.  DATA ITEM 21:    -8190 ffffe002 1110000000000010
+6.  DATA ITEM 22:        1 00000001 0000000000000001
+6.  DATA ITEM 23:       -5 fffffffb 1111111111111011
+6.  DATA ITEM 24:        8 00000008 0000000000001000
+6.  DATA ITEM 25:       13 0000000d 0000000000001101
+6.  DATA ITEM 26:    -4096 fffff000 1111000000000000
+6.  DATA ITEM 27:       40 00000028 0000000000101000
+6.  DATA ITEM 28:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 29:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 30:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 31:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 32:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 33:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 34:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 35:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 36:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 37:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 38:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 39:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 40:    -4096 fffff000 1111000000000000
+6.  DATA ITEM 41:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 42:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 43:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 44:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 45:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 46:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 47:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 48:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 49:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 50:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 51:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 52:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 53:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 54:   -13108 ffffcccc 1100110011001100
+6.  DATA ITEM 55:   -13108 ffffcccc 1100110011001100
+7.  GOOD  Original and rewritten 1010000000010111 1010000000010111
+7.  GOOD  Original and rewritten 1000000000011011 1000000000011011
+7.  GOOD  Original and rewritten 0100000000011011 0100000000011011
+7.  GOOD  Original and rewritten 1010000000011001 1010000000011001
+7.  GOOD  Original and rewritten 0100000000011010 0100000000011010
+7.  GOOD  Original and rewritten 1010000000011001 1010000000011001
+7.  GOOD  Original and rewritten 1000000000011000 1000000000011000
+7.  GOOD  Original and rewritten 1110000000000011 1110000000000011
+7.  GOOD  Original and rewritten 0101000000011011 0101000000011011
+7.  GOOD  Original and rewritten 1011000000011011 1011000000011011
+7.  GOOD  Original and rewritten 0100000000011001 0100000000011001
+7.  GOOD  Original and rewritten 1010000000011010 1010000000011010
+7.  GOOD  Original and rewritten 0100000000011000 0100000000011000
+7.  GOOD  Original and rewritten 1010000000010111 1010000000010111
+7.  GOOD  Original and rewritten 1000000000010110 1000000000010110
+7.  GOOD  Original and rewritten 0100000000010111 0100000000010111
+7.  GOOD  Original and rewritten 1010000000011011 1010000000011011
+7.  GOOD  Original and rewritten 1000000000010110 1000000000010110
+7.  GOOD  Original and rewritten 0100000000011011 0100000000011011
+7.  GOOD  Original and rewritten 1010000000010111 1010000000010111
+7.  GOOD  Original and rewritten 0000000000000011 0000000000000011
+7.  GOOD  Original and rewritten 1110000000000010 1110000000000010
+7.  GOOD  Original and rewritten 0000000000000001 0000000000000001
+7.  GOOD  Original and rewritten 1111111111111011 1111111111111011
+7.  GOOD  Original and rewritten 0000000000001000 0000000000001000
+7.  GOOD  Original and rewritten 0000000000001101 0000000000001101
+7.  GOOD  Original and rewritten 1111000000000000 1111000000000000
+7.  GOOD  Original and rewritten 0000000000101000 0000000000101000
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1111000000000000 1111000000000000
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+7.  GOOD  Original and rewritten 1100110011001100 1100110011001100
+NO ERRORS OCCURRED
+MAIN: Ending execution

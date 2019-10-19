@@ -1,0 +1,41 @@
+MAIN: Beginning execution
+MAIN: adotoutfile   'adotoutloop'
+MAIN: datafile '../../zzin.txt'
+MAIN: outfile  'zoutloop'
+2.  Input   1010000000000100
+2.  Input   1110000000000011
+2.  Input   0000000000000000
+2.  Input   1110000000000010
+2.  Input   1111111111111110
+
+3.  Convert 1010000000000100
+3.  Converted in loop ffffa004
+3.  Convert 1110000000000011
+3.  Converted in loop ffffe003
+3.  Convert 0000000000000000
+3.  Converted in loop 00000000
+3.  Convert 1110000000000010
+3.  Converted in loop ffffe002
+3.  Convert 1111111111111110
+3.  Converted in loop fffffffe
+
+4.  Converted after loop ffffa004
+4.  Converted after loop ffffe003
+4.  Converted after loop 00000000
+4.  Converted after loop ffffe002
+4.  Converted after loop fffffffe
+
+SUCCESS in opening input 'instream'
+BINARY LENGTH, WORDCOUNT 10 5
+6.  DATA ITEM  0:   -24572 ffffa004 1010000000000100
+6.  DATA ITEM  1:    -8189 ffffe003 1110000000000011
+6.  DATA ITEM  2:        0 00000000 0000000000000000
+6.  DATA ITEM  3:    -8190 ffffe002 1110000000000010
+6.  DATA ITEM  4:       -2 fffffffe 1111111111111110
+7.  GOOD  Original and rewritten 1010000000000100 1010000000000100
+7.  GOOD  Original and rewritten 1110000000000011 1110000000000011
+7.  GOOD  Original and rewritten 0000000000000000 0000000000000000
+7.  GOOD  Original and rewritten 1110000000000010 1110000000000010
+7.  GOOD  Original and rewritten 1111111111111110 1111111111111110
+NO ERRORS OCCURRED
+MAIN: Ending execution

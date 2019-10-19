@@ -1,0 +1,20 @@
+#cp ../../adotout*txt .
+Aprog adotoutcount     ../../zzin.txt zoutcount     zlogcount
+Aprog adotoutdata      ../../zzin.txt zoutdata      zlogdata
+Aprog adotoutfib       ../../zzin.txt zoutfib       zlogfib 
+Aprog adotoutloop      ../../zzin.txt zoutloop      zlogloop 
+Aprog adotoutreadwrite ../../zzin.txt zoutreadwrite zlogreadwrite 
+Aprog adotoutsquares   ../../zzin.txt zoutsquares   zlogsquares 
+#
+echo 'compare count'
+cmp adotoutcount.bin     ../../adotoutcount.bin.bup
+echo 'compare data'
+cmp adotoutdata.bin      ../../adotoutdata.bin.bup
+echo 'compare fib'
+cmp adotoutfib.bin       ../../adotoutfib.bin.bup
+echo 'compare loop'
+cmp adotoutloop.bin      ../../adotoutloop.bin.bup
+echo 'compare readwrite'
+cmp adotoutreadwrite.bin ../../adotoutreadwrite.bin.bup
+echo 'compare squares'
+cmp adotoutsquares.bin   ../../adotoutsquares.bin.bup

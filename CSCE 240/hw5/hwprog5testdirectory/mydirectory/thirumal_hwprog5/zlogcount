@@ -1,0 +1,107 @@
+MAIN: Beginning execution
+MAIN: adotoutfile   'adotoutcount'
+MAIN: datafile '../../zzin.txt'
+MAIN: outfile  'zoutcount'
+2.  Input   1010000000001100
+2.  Input   1110000000000011
+2.  Input   1010000000001100
+2.  Input   1000000000001110
+2.  Input   1110000000000011
+2.  Input   0100000000001100
+2.  Input   1010000000001101
+2.  Input   1000000000001111
+2.  Input   0100000000001101
+2.  Input   1010000000001101
+2.  Input   0000000000000010
+2.  Input   1110000000000010
+2.  Input   0000000000000001
+2.  Input   1111111111111011
+2.  Input   0000000000000010
+2.  Input   0000000000000001
+
+3.  Convert 1010000000001100
+3.  Converted in loop ffffa00c
+3.  Convert 1110000000000011
+3.  Converted in loop ffffe003
+3.  Convert 1010000000001100
+3.  Converted in loop ffffa00c
+3.  Convert 1000000000001110
+3.  Converted in loop ffff800e
+3.  Convert 1110000000000011
+3.  Converted in loop ffffe003
+3.  Convert 0100000000001100
+3.  Converted in loop 0000400c
+3.  Convert 1010000000001101
+3.  Converted in loop ffffa00d
+3.  Convert 1000000000001111
+3.  Converted in loop ffff800f
+3.  Convert 0100000000001101
+3.  Converted in loop 0000400d
+3.  Convert 1010000000001101
+3.  Converted in loop ffffa00d
+3.  Convert 0000000000000010
+3.  Converted in loop 00000002
+3.  Convert 1110000000000010
+3.  Converted in loop ffffe002
+3.  Convert 0000000000000001
+3.  Converted in loop 00000001
+3.  Convert 1111111111111011
+3.  Converted in loop fffffffb
+3.  Convert 0000000000000010
+3.  Converted in loop 00000002
+3.  Convert 0000000000000001
+3.  Converted in loop 00000001
+
+4.  Converted after loop ffffa00c
+4.  Converted after loop ffffe003
+4.  Converted after loop ffffa00c
+4.  Converted after loop ffff800e
+4.  Converted after loop ffffe003
+4.  Converted after loop 0000400c
+4.  Converted after loop ffffa00d
+4.  Converted after loop ffff800f
+4.  Converted after loop 0000400d
+4.  Converted after loop ffffa00d
+4.  Converted after loop 00000002
+4.  Converted after loop ffffe002
+4.  Converted after loop 00000001
+4.  Converted after loop fffffffb
+4.  Converted after loop 00000002
+4.  Converted after loop 00000001
+
+SUCCESS in opening input 'instream'
+BINARY LENGTH, WORDCOUNT 32 16
+6.  DATA ITEM  0:   -24564 ffffa00c 1010000000001100
+6.  DATA ITEM  1:    -8189 ffffe003 1110000000000011
+6.  DATA ITEM  2:   -24564 ffffa00c 1010000000001100
+6.  DATA ITEM  3:   -32754 ffff800e 1000000000001110
+6.  DATA ITEM  4:    -8189 ffffe003 1110000000000011
+6.  DATA ITEM  5:    16396 0000400c 0100000000001100
+6.  DATA ITEM  6:   -24563 ffffa00d 1010000000001101
+6.  DATA ITEM  7:   -32753 ffff800f 1000000000001111
+6.  DATA ITEM  8:    16397 0000400d 0100000000001101
+6.  DATA ITEM  9:   -24563 ffffa00d 1010000000001101
+6.  DATA ITEM 10:        2 00000002 0000000000000010
+6.  DATA ITEM 11:    -8190 ffffe002 1110000000000010
+6.  DATA ITEM 12:        1 00000001 0000000000000001
+6.  DATA ITEM 13:       -5 fffffffb 1111111111111011
+6.  DATA ITEM 14:        2 00000002 0000000000000010
+6.  DATA ITEM 15:        1 00000001 0000000000000001
+7.  GOOD  Original and rewritten 1010000000001100 1010000000001100
+7.  GOOD  Original and rewritten 1110000000000011 1110000000000011
+7.  GOOD  Original and rewritten 1010000000001100 1010000000001100
+7.  GOOD  Original and rewritten 1000000000001110 1000000000001110
+7.  GOOD  Original and rewritten 1110000000000011 1110000000000011
+7.  GOOD  Original and rewritten 0100000000001100 0100000000001100
+7.  GOOD  Original and rewritten 1010000000001101 1010000000001101
+7.  GOOD  Original and rewritten 1000000000001111 1000000000001111
+7.  GOOD  Original and rewritten 0100000000001101 0100000000001101
+7.  GOOD  Original and rewritten 1010000000001101 1010000000001101
+7.  GOOD  Original and rewritten 0000000000000010 0000000000000010
+7.  GOOD  Original and rewritten 1110000000000010 1110000000000010
+7.  GOOD  Original and rewritten 0000000000000001 0000000000000001
+7.  GOOD  Original and rewritten 1111111111111011 1111111111111011
+7.  GOOD  Original and rewritten 0000000000000010 0000000000000010
+7.  GOOD  Original and rewritten 0000000000000001 0000000000000001
+NO ERRORS OCCURRED
+MAIN: Ending execution
