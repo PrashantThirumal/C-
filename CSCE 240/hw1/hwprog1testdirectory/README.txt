@@ -1,8 +1,7 @@
-Do your programming in the 'mydirectory' directory, in a directory
-lastnamefirstname_hwx (all lower case). In my case, I do all my
-programming in the directory 'mydirectory/buellduncan_hwx' for
-programming assignment number x. That is, the 'x' should be replaced
-by the actual number of the homework assignment.
+To view the actual code go to my directory
+
+######################################################################################
+Zipping up files:
 
 Run the script zaZipUpScript.txt to tar and gzip your directory
 and copy it to the 'assignment' directory.
